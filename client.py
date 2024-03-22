@@ -4,7 +4,6 @@ import tkinter as tk
 from  threading import Thread
 import random
 from PIL import ImageTk, Image
-from tkmacosx import Button
 import platform
 
 
